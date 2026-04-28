@@ -1,0 +1,2 @@
+This branch demonstrates how to use the multi-cursor feature in VS Code.
+Hold Alt and click in multiple places to edit them simultaneously.
