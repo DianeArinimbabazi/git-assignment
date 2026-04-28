@@ -1,11 +1,19 @@
 Assignment Screenshots Documentation
 
-Part 1 - Initialized repo with git init, created README.md and made first commit "Add initial README"
+1. Initial commit:
+https://github.com/DianeArinimbabazi/git-assignment/commit/90e041e
 
-Part 2 - Created feature branch, added feature.txt with VS Code multi-cursor description, committed, switched back to main and merged feature branch
+2. Branch creation and feature addition:
+https://github.com/DianeArinimbabazi/git-assignment/commit/fa8fcf9
 
-Part 3 - Created public GitHub repository, connected with git remote add origin, pushed with git push -u origin main
+3. Feature branch update:
+https://github.com/DianeArinimbabazi/git-assignment/commit/e50617b
 
-Part 4 - Opened Pull Request #1 "Add VS Code multi-cursor feature documentation", left 2 inline comments on feature.txt, replied to one comment, merged PR into main, deleted feature branch
+4. Pull request:
+https://github.com/DianeArinimbabazi/git-assignment/pull/1
 
-Part 5 - Repository URL: https://github.com/DianeArinimbabazi/git-assignment
+5. Merge:
+https://github.com/DianeArinimbabazi/git-assignment/pull/1
+
+6. Full commit history:
+https://github.com/DianeArinimbabazi/git-assignment/commits/main
